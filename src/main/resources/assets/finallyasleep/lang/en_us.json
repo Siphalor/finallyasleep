@@ -1,0 +1,6 @@
+{
+	"finallyasleep.chat.waiting_for_players": "%1$s players are waiting to fall asleep (%2$s needed)",
+	"finallyasleep.chat.player_canceled": "%1$s woke up to early",
+	"finallyasleep.chat.ready": "Nice work! We're ready to sleep now.",
+	"finallyasleep.chat.awake": "Good morning everyone. Seize the day!"
+}

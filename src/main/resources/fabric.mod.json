@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "finallyasleep",
+	"version": "${version}",
+	"name": "Finally Asleep",
+	"description": "Finally fall asleep",
+	"authors": [
+		"Siphalor"
+	],
+	"contact": {
+		"homepage": "https://github.com/Siphalor/finallyasleep",
+		"issues": "https://github.com/Siphalor/finallyasleep/issues",
+		"sources": "https://github.com/Siphalor/finallyasleep"
+	},
+	"license": "Apache-2.0",
+	"environment": "*",
+	"mixins": [
+		"finallyasleep.mixins.json"
+	],
+	"entrypoints": {
+		"main": [
+			"de.siphalor.finallyasleep.FinallyAsleep"
+		]
+	},
+	"depends": {
+	},
+	"conflicts": {
+	},
+	"custom": {
+	}
+}
